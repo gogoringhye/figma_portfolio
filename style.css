@@ -42,7 +42,6 @@ body {
 .wrap>div img {
     z-index: 10;
     pointer-events: none
-        /* 클릭 안먹힐 때 */
     ;
 }
 
